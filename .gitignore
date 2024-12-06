@@ -1,0 +1,19 @@
+target/
+.project
+.classpath
+.settings/
+.svn/
+bin/
+# Intellij
+*.ipr
+*.iml
+*.versionsBackup
+.idea
+out/
+.DS_Store
+/bootstrap
+/dependencies.xml
+.java-version
+.checkstyle
+/dependency-reduced-pom.xml
+.factorypath
